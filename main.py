@@ -36,6 +36,9 @@ from hiroshi.utils import (
     run_monitoring,
     user_interacts_with_bot,
 )
+from keep_alive import keep_alive
+
+keep_alive()
 
 
 class HiroshiBot:
