@@ -79,7 +79,7 @@ class HiroshiBot:
 
         text = (
             "If you like me, or you have some questions, feature requests or any issues found, please, "
-            "feel free to visit my GitHub page: https://github.com/s-nagaev/hiroshi. Thank you!\n\n"
+            "feel free to contact @kaifsarkar53. Thank you!\n\n"
         )
         await telegram_message.reply_text(text, disable_web_page_preview=True)
 
